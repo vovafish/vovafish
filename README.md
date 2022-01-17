@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir Ribakov
-- 👀 I’m interested in SQL, HTML, CSS, C#, JavaScript, UML
-- 🌱 I’m currently learning OOP
+- 👀 I’m interested in SQL, HTML, CSS, C#, JavaScript, UML & PHP
+- 🌱 I’m currently learning general OOP
 - 📫 How to reach me vladimirrybakov123@gmail.com
 
 <!---
