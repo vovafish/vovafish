@@ -8,16 +8,25 @@
 <body>
     <h1>Hi, I'm Vladimir 👨‍💻</h1>
     <div>
-      <p style="color: red">Info about me...</p>
+      <p>Info about me...</p>
     </div>
     <div>
       <h3>Where You Can Find Me</h3>
       <ul>
         <li>My socials: 
             <ul>
-                <li><a href="https://www.facebook.com/profile.php?id=100009911596288" target="_blank">Facebook</a></li>
-                <li><a href="https://vk.com/m9ymur" target="_blank">VKontakte</a></li>
-                <li><a href="https://www.instagram.com/moodduck0780/" target="_blank">Instagram</a></li>
+                <li>
+                    <a href="https://www.facebook.com/profile.php?id=100009911596288" target="_blank">Facebook</a>
+                    <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-3089490-2567442.png" height="20" width="20">
+                </li>
+                <li>
+                    <a href="https://vk.com/m9ymur" target="_blank">VKontakte</a>
+                    <img src="https://www.iconpacks.net/icons/2/free-vkontakte-logo-icon-2443-thumb.png" height="20" width="20">
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/moodduck0780/" target="_blank">Instagram</a>
+                    <img src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-logo.png" height="20" width="35">
+                </li>
             </ul>
         <li>Sharing updates & progress on <a href="https://www.linkedin.com/in/vladimir-rybakov-yr2000" target="_blank">LinkedIn 💼</a></li>
         <li>Enjoy coding practice on <a href="https://www.codewars.com/users/VladFish" target="_blank">Codewars 😁🖱💻🔌</a></li>
