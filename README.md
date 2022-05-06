@@ -8,7 +8,7 @@
 <body>
     <h1>Hi, I'm Vladimir 👨‍💻</h1>
     <div>
-      <p>Info about me...</p>
+      <p style="color: red">Info about me...</p>
     </div>
     <div>
       <h3>Where You Can Find Me</h3>
