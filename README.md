@@ -19,7 +19,7 @@
             <li>PHP</li>
             <li>C#</li>
             <li>.NET Core</li>
-            <li>MySQL/li>
+            <li>MySQL</li>
             <li>Bootstrap</li>
         </ul>
     </div>
