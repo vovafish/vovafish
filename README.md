@@ -14,6 +14,7 @@
       <h3>Where You Can Find Me</h3>
       <ul>
         <li><a href="https://www.facebook.com/profile.php?id=100009911596288" target="_blank">Facebook</a></li>
+        <li><a href="https://www.linkedin.com/in/vladimir-rybakov-yr2000" target="_blank">LinkedIn</a></li>
         <li>LinkedIn</li>
         <li>VKontakte</li>
         <li>Codewars</li>
