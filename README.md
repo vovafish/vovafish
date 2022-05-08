@@ -21,6 +21,7 @@
             <li>.NET Core</li>
             <li>MySQL</li>
             <li>Bootstrap</li>
+            <li>Figma</li>
         </ul>
     </div>
     <div>
