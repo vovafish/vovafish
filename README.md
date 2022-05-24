@@ -39,7 +39,7 @@
                     <a href="https://vk.com/m9ymur" target="_blank">VKontakte</a>
                 </li>
                 <li>
-                    <img src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-logo.png" height="20" width="35">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="20" width="35">
                     <a href="https://www.instagram.com/moodduck0780/" target="_blank">Instagram</a>
                 </li>
             </ul>
