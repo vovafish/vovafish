@@ -44,7 +44,7 @@
                 </li>
             </ul>
         <li>Sharing updates & progress on <a href="https://www.linkedin.com/in/vladimir-rybakov-yr2000" target="_blank">LinkedIn 💼</a></li>
-        <li>Enjoy coding practice on <a href="https://www.codewars.com/users/VladFish" target="_blank">Codewars 😁🖱💻🔌</a></li>
+        <li>Enjoying coding practice on <a href="https://www.codewars.com/users/VladFish" target="_blank">Codewars 😁🖱💻🔌</a></li>
      </ul> 
     </div>
 </body>
