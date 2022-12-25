@@ -16,9 +16,8 @@
             <li>HTML</li>
             <li>CSS(SCSS/LESS/Stylus)</li>
             <li>JavaScript</li>
+            <li>React js</li>
             <li>PHP</li>
-            <li>C#</li>
-            <li>.NET Core</li>
             <li>MySQL</li>
             <li>Bootstrap</li>
             <li>Figma</li>
