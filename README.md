@@ -16,8 +16,14 @@
             <li>HTML</li>
             <li>CSS(SCSS/LESS/Stylus)</li>
             <li>JavaScript</li>
-            <li>React js</li>
-            <li>PHP</li>
+            <li>MERN stack environment
+                <ul>
+                    <li>MongoDB</li>
+                    <li>Express js</li>
+                    <li>React js</li>
+                    <li>Node js</li>
+                </ul>
+            </li>
             <li>MySQL</li>
             <li>Bootstrap</li>
             <li>Figma</li>
