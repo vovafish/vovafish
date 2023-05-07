@@ -8,7 +8,7 @@
 <body>
     <h1>Hi, I'm Vladimir 👨‍💻</h1>
     <div>
-      <p>I'm a student at the De Montfort University studying BSc Computing. I looking forward to be multi-functional developer to work with diffrent aspcets such as front-end, back-end, UX design.</p>
+      <p>I'm a student at the De Montfort University studying BSc Computing. I looking forward to be multi-functional developer to work with diffrent aspcets such as front-end, back-end, UX/UI design.</p>
     </div>
     <div>
       <h3>Skills</h3>
