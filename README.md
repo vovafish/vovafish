@@ -25,6 +25,7 @@
                 </ul>
             </li>
             <li>MySQL</li>
+            <li>Java</li>
             <li>Bootstrap</li>
             <li>Figma</li>
         </ul>
