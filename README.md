@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 style="color:red;">Outdated, under revision</h1>
+    <h2 style="color: red;">Outdated, under revision</h2>
     <h1>Hi, I'm Vladimir 👨‍💻</h1>
     <div>
       <p>MSc Software Engineering Student</p>
@@ -40,10 +40,6 @@
                 <li>
                     <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-3089490-2567442.png" height="20" width="20">
                     <a href="https://www.facebook.com/profile.php?id=100009911596288" target="_blank">Facebook</a>
-                </li>
-                <li>
-                    <img src="https://www.iconpacks.net/icons/2/free-vkontakte-logo-icon-2443-thumb.png" height="20" width="20">
-                    <a href="https://vk.com/m9ymur" target="_blank">VKontakte</a>
                 </li>
                 <li>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="20" width="35">
